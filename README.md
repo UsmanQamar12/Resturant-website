@@ -1,4 +1,5 @@
 # Resturant-website
+Fully responsive Restaurant Website built using [HTML, CSS, JavaScript / React / Next.js / etc.]. The website provides a visually appealing and user-friendly interface to showcase the restaurant’s menu, services, and contact details. It includes sections for the home page, about us, menu, reservations, and contact information, making it an ideal platform for restaurants to establish an online presence.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
